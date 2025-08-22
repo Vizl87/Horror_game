@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "Horror_gameEditor Editor Win64 Development (Horror_game)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Horror_game.json"
+            ],
+			"includePath": [ 
+				"${workspaceFolder}\\Intermediate\\**", 
+				"${workspaceFolder}\\Plugins\\**", 
+				"${workspaceFolder}\\Source\\**" 
+
+     		]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default.json"
+            ],
+			"includePath": [ 
+				"${workspaceFolder}\\Intermediate\\**", 
+				"${workspaceFolder}\\Plugins\\**", 
+				"${workspaceFolder}\\Source\\**" 
+
+     		]
+			
+        }
+		
+    ],
+    "version": 4
+}

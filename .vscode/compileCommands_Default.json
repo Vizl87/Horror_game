@@ -1,0 +1,210 @@
+[
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\Private\\VisualStudioBlueprintDebuggerHelperModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioBlueprintDebuggerHelper.60.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\Private\\VisualStudioBlueprintDebuggerHelperModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioBlueprintDebuggerHelper.60.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioBlueprintDebuggerHelper.60.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\BlueprintAssetHelper.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\BlueprintAssetHelpers.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\BlueprintReferencesCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\BlueprintReferencesCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\FSmartBSTR.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VSServerCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VSServerCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VSTestAdapterCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VSTestAdapterCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioTools.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsBlueprintBreakpointExtension.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsBlueprintBreakpointExtension.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsCommandletBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsCommandletBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Public\\VisualStudioTools.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\VisualStudioTools.59.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Source\\Horror_game\\Horror_game.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\Horror_game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Source\\Horror_game\\Horror_game.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\Horror_game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Source\\Horror_game\\Horror_game.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\Horror_game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Source\\Horror_game\\Private\\MyActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\Horror_game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\Source\\Horror_game\\Private\\MyActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\s4laee03\\OneDrive - OSAO\\Tiedostot\\supa skeri gmae\\Horror_game\\.vscode\\compileCommands_Default\\Horror_game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
